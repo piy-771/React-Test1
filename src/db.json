@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "f41e",
+      "mono": "236",
+      "name": "Piyush",
+      "city": "Indore",
+      "salary": "20000"
+    },
+    {
+      "id": "cdd5",
+      "mono": "256",
+      "name": "Lily",
+      "city": "Bhopal",
+      "salary": "50000"
+    }
+  ]
+}
